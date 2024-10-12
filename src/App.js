@@ -177,7 +177,7 @@ function App() {
             Submit Exam
           </button>
 
-          <div className="violation-counter">Violation Limit - 3</div>
+          <div className="violation-counter">Violation Limit - 2</div>
 
           {showViolationModal && !examTerminated && (
             <ViolationModal
