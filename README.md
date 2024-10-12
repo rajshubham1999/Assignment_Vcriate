@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # How to run the project 
-1). Clone to VsStudio 
-2).npm install
+1). Clone to Visual Studio .\
+2).npm install .\
 3).npm start
 
 ## Available Scripts
